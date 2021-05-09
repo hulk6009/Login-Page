@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Passwords</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">CANCEL</string>
+    <string name="hint_email">Email</string>
+
+    <string-array name="currency">
+        <item> Currency </item>
+        <item> Dollars </item>
+        <item> Naira </item>
+        <item> Pounds </item>
+        <item> Euros </item>
+        <item> Nok </item>
+    </string-array>
+</resources>
